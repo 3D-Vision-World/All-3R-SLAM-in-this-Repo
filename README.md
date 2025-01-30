@@ -26,7 +26,7 @@
 - SAB3R: Semantic-Augmented Backbone in 3D Reconstruction, *arXiv 2024*. [[Paper](https://tianx-ia.github.io/Semantic_Augmented_3D_Foundation_Models.pdf)]
 - No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2410.24207)] [[Code](https://github.com/cvg/NoPoSplat)] [[Website](https://noposplat.github.io/)]
 - Doppelgangers++: Improved Visual Disambiguation with Geometric 3D Features, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2412.05826)]
-- 3D Reconstruction with Spatial Memory, *3DV 2025*. [[Paper](https://arxiv.org/pdf/2408.16061)] [[Code](https://github.com/HengyiWang/spann3r)] [[Website](https://hengyiwang.github.io/projects/spanner)]
+- (Spann3R) 3D Reconstruction with Spatial Memory, *3DV 2025*. [[Paper](https://arxiv.org/pdf/2408.16061)] [[Code](https://github.com/HengyiWang/spann3r)] [[Website](https://hengyiwang.github.io/projects/spanner)]
 - Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2501.13928)] [[Website](https://fast3r-3d.github.io/)]
 
 #### Depth Estimation
@@ -35,5 +35,5 @@
 
 #### Image Matching
 
-- Grounding Image Matching in 3D with MASt3R, *ECCV 2024*. [[Paper](https://arxiv.org/pdf/2406.09756)] [[Code](https://github.com/naver/mast3r)] [[Website](https://europe.naverlabs.com/blog/mast3r-matching-and-stereo-3d-reconstruction/)]
+- (MASt3R) Grounding Image Matching in 3D with MASt3R, *ECCV 2024*. [[Paper](https://arxiv.org/pdf/2406.09756)] [[Code](https://github.com/naver/mast3r)] [[Website](https://europe.naverlabs.com/blog/mast3r-matching-and-stereo-3d-reconstruction/)]
 
