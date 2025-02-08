@@ -4,7 +4,7 @@
 
 - DUSt3R: Geometric 3D Vision Made Easy, *CVPR 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_DUSt3R_Geometric_3D_Vision_Made_Easy_CVPR_2024_paper.pdf)] [[Code](https://github.com/naver/dust3r)] [[Website](https://dust3r.europe.naverlabs.com/)]
 - Monst3r: A simple approach for estimating geometry in the presence of motion, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2410.03825)] [[Code](https://github.com/Junyi42/monst3r)] [[Website](https://monst3r-project.github.io/)]
-- LoRA3D: Low-Rank Self-Calibration of 3D Geometric Foundation Models, *ICLR 2025*. [[Paper](https://arxiv.org/pdf/2412.07746)]
+- LoRA3D: Low-Rank Self-Calibration of 3D Geometric Foundation Models, *ICLR 2025*. [[Paper](https://arxiv.org/pdf/2412.07746)] [[Website](https://520xyxyzq.github.io/lora3d/)]
 - (CUT3R) Continuous 3D Perception Model with Persistent State, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2501.12387)] [[Code](https://github.com/CUT3R/CUT3R)] [[Website](https://cut3r.github.io/)]
 
 ### Related Application
