@@ -29,6 +29,7 @@
 - (Spann3R) 3D Reconstruction with Spatial Memory, *3DV 2025*. [[Paper](https://arxiv.org/pdf/2408.16061)] [[Code](https://github.com/HengyiWang/spann3r)] [[Website](https://hengyiwang.github.io/projects/spanner)]
 - Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2501.13928)] [[Website](https://fast3r-3d.github.io/)]
 - InstantSplat: Unbounded Sparse-view Pose-free Gaussian Splatting in 40 Seconds, *arXiv 2025*. [[Paper](https://generative-vision.github.io/workshop-CVPR-24/papers/11.pdf)] [[Website](https://instantsplat.github.io/)] [[Code](https://github.com/NVlabs/InstantSplat)]
+- SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2411.12592)] [[Code](https://github.com/snldmt/SPARS3R)]
 #### Depth Estimation
 
 - Align3R: Aligned Monocular Depth Estimation for Dynamic Videos, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2412.03079)] [[Code](https://github.com/jiah-cloud/Align3R)] [[Website](https://igl-hkust.github.io/Align3R.github.io/)]
