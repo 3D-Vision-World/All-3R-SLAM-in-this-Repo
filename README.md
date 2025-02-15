@@ -1,5 +1,7 @@
 # awesome 3D Geometric Foundation Models and Application
 
+Note: I just saw a more comprehensive repository that organizes papers in this field: “https://github.com/ruili3/awesome-dust3r.” Therefore, we may stop maintaining our repository, and I am considering syncing the information from our repository to theirs.
+
 ### 3D Geometric Foundation Models
 
 - DUSt3R: Geometric 3D Vision Made Easy, *CVPR 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_DUSt3R_Geometric_3D_Vision_Made_Easy_CVPR_2024_paper.pdf)] [[Code](https://github.com/naver/dust3r)] [[Website](https://dust3r.europe.naverlabs.com/)]
