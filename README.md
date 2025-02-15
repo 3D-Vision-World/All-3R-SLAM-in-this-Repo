@@ -1,6 +1,6 @@
 # awesome 3D Geometric Foundation Models and Application
 
-Note: I just saw a more comprehensive repository that organizes papers in this field: “https://github.com/ruili3/awesome-dust3r.” Therefore, we may stop maintaining our repository, and I am considering syncing the information from our repository to theirs.
+Note: I just saw a more comprehensive repository that organizes papers in this field: “[https://github.com/ruili3/awesome-dust3r](https://github.com/ruili3/awesome-dust3r).” Therefore, we may stop maintaining our repository, and I am considering syncing the information from our repository to theirs.
 
 ### 3D Geometric Foundation Models
 
