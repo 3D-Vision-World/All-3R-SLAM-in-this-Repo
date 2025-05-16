@@ -20,6 +20,7 @@
 - SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2411.12592)] [[Code](https://github.com/snldmt/SPARS3R)]
 - Align3R: Aligned Monocular Depth Estimation for Dynamic Videos, *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2412.03079)] [[Code](https://github.com/jiah-cloud/Align3R)] [[Website](https://igl-hkust.github.io/Align3R.github.io/)]
 - (MASt3R) Grounding Image Matching in 3D with MASt3R, *ECCV 2024*. [[Paper](https://arxiv.org/pdf/2406.09756)] [[Code](https://github.com/naver/mast3r)] [[Website](https://europe.naverlabs.com/blog/mast3r-matching-and-stereo-3d-reconstruction/)]
+- VGGT: Visual Geometry Grounded Transformer, *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2503.11651)] [[Code](https://github.com/facebookresearch/vggt)] [[Website](https://vgg-t.github.io/)]
 
 ## SLAM
 
