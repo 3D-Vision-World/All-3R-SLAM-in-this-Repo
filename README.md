@@ -26,4 +26,4 @@
 
 - SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos, *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2412.09401)] [[Code](https://github.com/PKU-VCL-3DV/SLAM3R)]
 - MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors, *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2412.12392)] [[Website](https://edexheim.github.io/mast3r-slam/)] [[Code](https://github.com/rmurai0610/MASt3R-SLAM)]
-- VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2505.12549)]
+- VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2505.12549)] [[Code](https://github.com/MIT-SPARK/VGGT-SLAM)]
