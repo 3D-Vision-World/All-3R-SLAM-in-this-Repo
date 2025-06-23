@@ -21,10 +21,12 @@
 - Align3R: Aligned Monocular Depth Estimation for Dynamic Videos, *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2412.03079)] [[Code](https://github.com/jiah-cloud/Align3R)] [[Website](https://igl-hkust.github.io/Align3R.github.io/)]
 - (MASt3R) Grounding Image Matching in 3D with MASt3R, *ECCV 2024*. [[Paper](https://arxiv.org/pdf/2406.09756)] [[Code](https://github.com/naver/mast3r)] [[Website](https://europe.naverlabs.com/blog/mast3r-matching-and-stereo-3d-reconstruction/)]
 - VGGT: Visual Geometry Grounded Transformer, *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2503.11651)] [[Code](https://github.com/facebookresearch/vggt)] [[Website](https://vgg-t.github.io/)]
-- MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos, *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2412.04463)] [[Website](https://mega-sam.github.io/)] [[Code](https://github.com/mega-sam/mega-sam)]
+
 
 ## SLAM
 
+- Hier-slam++: Neuro-symbolic semantic slam with a hierarchically categorical gaussian splatting, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2502.14931)]
+- MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos, *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2412.04463)] [[Website](https://mega-sam.github.io/)] [[Code](https://github.com/mega-sam/mega-sam)]
 - SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos, *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2412.09401)] [[Code](https://github.com/PKU-VCL-3DV/SLAM3R)]
 - MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors, *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2412.12392)] [[Website](https://edexheim.github.io/mast3r-slam/)] [[Code](https://github.com/rmurai0610/MASt3R-SLAM)]
 - VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2505.12549)] [[Code](https://github.com/MIT-SPARK/VGGT-SLAM)]
