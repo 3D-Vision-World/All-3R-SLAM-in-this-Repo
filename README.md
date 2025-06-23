@@ -1,4 +1,4 @@
-# All 3R SLAM in this Repository
+# 3D Geometric Foundation Models (3R) with SLAM
 
 
 ## 3D Geometric Foundation Models (3R)
