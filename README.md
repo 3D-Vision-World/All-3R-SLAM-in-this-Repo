@@ -1,5 +1,8 @@
 # 3D Geometric Foundation Models (3R) with SLAM
 
+## Survey Paper
+
+- Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2507.14501)] [[Website](https://fnzhan.com/projects/Feed-Forward-3D/)]
 
 ## 3D Geometric Foundation Models (3R)
 
