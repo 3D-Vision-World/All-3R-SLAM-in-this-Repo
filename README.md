@@ -25,6 +25,8 @@
 - (MASt3R) Grounding Image Matching in 3D with MASt3R, *ECCV 2024*. [[Paper](https://arxiv.org/pdf/2406.09756)] [[Code](https://github.com/naver/mast3r)] [[Website](https://europe.naverlabs.com/blog/mast3r-matching-and-stereo-3d-reconstruction/)]
 - VGGT: Visual Geometry Grounded Transformer, *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2503.11651)] [[Code](https://github.com/facebookresearch/vggt)] [[Website](https://vgg-t.github.io/)]
 - E3D-Bench: A Benchmark for End-to-End 3D Geometric Foundation Models, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2506.01933)] [[Code](https://github.com/VITA-Group/E3D-Bench)] [[Website](https://e3dbench.github.io/)]
+- π^3: Scalable Permutation-Equivariant Visual Geometry Learning, *arXiv 2025*. [[Paper](https://arxiv.org/abs/2507.13347)] [[Code](https://github.com/yyfz/Pi3?tab=readme-ov-file)] [[Website](https://yyfz.github.io/pi3/)]
+- Dens3R: A Foundation Model for 3D Geometry Prediction, *ICCV 2025*. [[Paper](https://arxiv.org/pdf/2507.16290v1)] [[Code](https://github.com/G-1nOnly/Dens3R)] [[Website](https://g-1nonly.github.io/Dens3R/)]
 - LONG3R: Long Sequence Streaming 3D Reconstruction, *ICCV 2025*. [[Paper](https://arxiv.org/pdf/2507.18255)] [[Code](https://github.com/zgchen33/LONG3R/)] [[Website](https://zgchen33.github.io/LONG3R/)]
 
 ## SLAM
