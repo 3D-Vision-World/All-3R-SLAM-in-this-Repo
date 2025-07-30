@@ -28,6 +28,8 @@
 - π^3: Scalable Permutation-Equivariant Visual Geometry Learning, *arXiv 2025*. [[Paper](https://arxiv.org/abs/2507.13347)] [[Code](https://github.com/yyfz/Pi3?tab=readme-ov-file)] [[Website](https://yyfz.github.io/pi3/)]
 - Dens3R: A Foundation Model for 3D Geometry Prediction, *ICCV 2025*. [[Paper](https://arxiv.org/pdf/2507.16290v1)] [[Code](https://github.com/G-1nOnly/Dens3R)] [[Website](https://g-1nonly.github.io/Dens3R/)]
 - LONG3R: Long Sequence Streaming 3D Reconstruction, *ICCV 2025*. [[Paper](https://arxiv.org/pdf/2507.18255)] [[Code](https://github.com/zgchen33/LONG3R/)] [[Website](https://zgchen33.github.io/LONG3R/)]
+- PanoSplatt3R: Leveraging Perspective Pretraining for Generalized Unposed Wide-Baseline Panorama Reconstruction, *ICCV 2025*. [[Paper](https://arxiv.org/pdf/2507.21960)] [[Code]()] [[Website](https://npucvr.github.io/PanoSplatt3R/)]
+- Ov3R: Open-Vocabulary Semantic 3D Reconstruction from RGB Videos, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2507.22052)]
 
 ## SLAM
 
