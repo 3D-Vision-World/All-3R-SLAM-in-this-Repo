@@ -40,3 +40,4 @@
 - VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2505.12549)] [[Code](https://github.com/MIT-SPARK/VGGT-SLAM)]
 - Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps, *ICCV 2025*. [[Paper](https://arxiv.org/pdf/2507.03737)] [[Website](https://3dagentworld.github.io/S3PO-GS/)] [[Code](https://github.com/3DAgentWorld/S3PO-GS)]
 - VGGT-Long: Chunk it, Loop it, Align it – Pushing VGGT’s Limits on Kilometer-scale Long RGB Sequences, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2507.16443)] [[Code](https://github.com/DengKaiCQ/VGGT-Long)]
+- Pseudo Depth Meets Gaussian: A Feed-forward RGB SLAM Baseline, *IROS, 2025*. [[Paper](https://arxiv.org/pdf/2508.04597)] [[Code](https://github.com/wangyr22/DepthGS)]
