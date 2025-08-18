@@ -30,6 +30,8 @@
 - LONG3R: Long Sequence Streaming 3D Reconstruction, *ICCV 2025*. [[Paper](https://arxiv.org/pdf/2507.18255)] [[Code](https://github.com/zgchen33/LONG3R/)] [[Website](https://zgchen33.github.io/LONG3R/)]
 - PanoSplatt3R: Leveraging Perspective Pretraining for Generalized Unposed Wide-Baseline Panorama Reconstruction, *ICCV 2025*. [[Paper](https://arxiv.org/pdf/2507.21960)] [[Code]()] [[Website](https://npucvr.github.io/PanoSplatt3R/)]
 - Ov3R: Open-Vocabulary Semantic 3D Reconstruction from RGB Videos, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2507.22052)]
+- G-CUT3R: Guided 3D Reconstruction with Camera and Depth Prior Integration, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2508.11379)]
+- ViPE: Video Pose Engine for 3D Geometric Perception, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2508.10934)] [[Code](https://github.com/nv-tlabs/vipe)] [[Website](https://research.nvidia.com/labs/toronto-ai/vipe/)]
 
 ## SLAM
 
