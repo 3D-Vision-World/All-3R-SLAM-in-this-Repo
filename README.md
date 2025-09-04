@@ -32,6 +32,7 @@
 - Ov3R: Open-Vocabulary Semantic 3D Reconstruction from RGB Videos, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2507.22052)]
 - G-CUT3R: Guided 3D Reconstruction with Camera and Depth Prior Integration, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2508.11379)]
 - ViPE: Video Pose Engine for 3D Geometric Perception, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2508.10934)] [[Code](https://github.com/nv-tlabs/vipe)] [[Website](https://research.nvidia.com/labs/toronto-ai/vipe/)]
+- FastVGGT: Training-Free Acceleration of Visual Geometry Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.02560)] 
 
 ## SLAM
 
