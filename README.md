@@ -35,6 +35,7 @@
 - FastVGGT: Training-Free Acceleration of Visual Geometry Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.02560)]
 - SAIL-Recon: Large SfM by Augmenting Scene Regression with Localization, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2508.17972)] [[Code](https://github.com/HKUST-SAIL/sail-recon)] [[Website](https://hkust-sail.github.io/sail-recon/)]
 - Streaming 4D Visual Geometry Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2507.11539)] [[Code](https://github.com/wzzheng/StreamVGGT)] [[Website](https://wzzheng.net/StreamVGGT/)]
+- Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
 
 ## SLAM
 
