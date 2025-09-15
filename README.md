@@ -35,11 +35,12 @@
 - FastVGGT: Training-Free Acceleration of Visual Geometry Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.02560)]
 - SAIL-Recon: Large SfM by Augmenting Scene Regression with Localization, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2508.17972)] [[Code](https://github.com/HKUST-SAIL/sail-recon)] [[Website](https://hkust-sail.github.io/sail-recon/)]
 - Streaming 4D Visual Geometry Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2507.11539)] [[Code](https://github.com/wzzheng/StreamVGGT)] [[Website](https://wzzheng.net/StreamVGGT/)]
-- Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
+
 
 ## SLAM
 
 - Hier-slam++: Neuro-symbolic semantic slam with a hierarchically categorical gaussian splatting, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2502.14931)]
+
 - MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos, *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2412.04463)] [[Website](https://mega-sam.github.io/)] [[Code](https://github.com/mega-sam/mega-sam)]
 - SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos, *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2412.09401)] [[Code](https://github.com/PKU-VCL-3DV/SLAM3R)]
 - MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors, *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2412.12392)] [[Website](https://edexheim.github.io/mast3r-slam/)] [[Code](https://github.com/rmurai0610/MASt3R-SLAM)]
@@ -49,3 +50,6 @@
 - Pseudo Depth Meets Gaussian: A Feed-forward RGB SLAM Baseline, *IROS, 2025*. [[Paper](https://arxiv.org/pdf/2508.04597)] [[Code](https://github.com/wangyr22/DepthGS)]
 - 3D Foundation Model-Based Loop Closing for Decentralized Collaborative SLAM, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11159173)]
 - ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2509.01584)] [[Code](https://github.com/zhangganlin/vista-slam)]
+
+## Calibration
+- Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
