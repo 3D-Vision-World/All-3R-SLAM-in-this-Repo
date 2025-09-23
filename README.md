@@ -51,6 +51,7 @@
 - Pseudo Depth Meets Gaussian: A Feed-forward RGB SLAM Baseline, *IROS, 2025*. [[Paper](https://arxiv.org/pdf/2508.04597)] [[Code](https://github.com/wangyr22/DepthGS)]
 - 3D Foundation Model-Based Loop Closing for Decentralized Collaborative SLAM, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11159173)]
 - ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2509.01584)] [[Code](https://github.com/zhangganlin/vista-slam)]
+- SLAM-Former: Putting SLAM into One Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.16909)] [[Website](https://tsinghua-mars-lab.github.io/SLAM-Former/)] [[Code](https://github.com/Tsinghua-MARS-Lab/SLAM-Former)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
