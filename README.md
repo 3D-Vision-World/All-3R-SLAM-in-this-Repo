@@ -36,7 +36,7 @@
 - SAIL-Recon: Large SfM by Augmenting Scene Regression with Localization, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2508.17972)] [[Code](https://github.com/HKUST-SAIL/sail-recon)] [[Website](https://hkust-sail.github.io/sail-recon/)]
 - Streaming 4D Visual Geometry Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2507.11539)] [[Code](https://github.com/wzzheng/StreamVGGT)] [[Website](https://wzzheng.net/StreamVGGT/)]
 - MapAnything: Universal Feed-Forward Metric 3D Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.13414)] [[Code](https://github.com/facebookresearch/map-anything)] [[Website](https://map-anything.github.io/)]
-
+- TTT3R: 3D Reconstruction as Test-Time Training, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.26645)] [[Code](https://github.com/Inception3D/TTT3R)] [[Website](https://rover-xingyu.github.io/TTT3R/)]
 
 ## SLAM
 
