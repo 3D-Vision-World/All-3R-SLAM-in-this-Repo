@@ -37,7 +37,6 @@
 - Streaming 4D Visual Geometry Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2507.11539)] [[Code](https://github.com/wzzheng/StreamVGGT)] [[Website](https://wzzheng.net/StreamVGGT/)]
 - MapAnything: Universal Feed-Forward Metric 3D Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.13414)] [[Code](https://github.com/facebookresearch/map-anything)] [[Website](https://map-anything.github.io/)]
 - TTT3R: 3D Reconstruction as Test-Time Training, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.26645)] [[Code](https://github.com/Inception3D/TTT3R)] [[Website](https://rover-xingyu.github.io/TTT3R/)]
-- Visual Odometry with Transformers, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2510.03348)] [[Website](https://vladimiryugay.github.io/vot/index.html)]
 ## SLAM
 
 - Hier-slam++: Neuro-symbolic semantic slam with a hierarchically categorical gaussian splatting, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2502.14931)]
@@ -54,6 +53,7 @@
 - MASt3R-Fusion: Integrating Feed-Forward Visual Model with IMU, GNSS for High-Functionality SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.20757)] [[Code](https://github.com/GREAT-WHU/MASt3R-Fusion)]
 - GRS-SLAM3R: Real-Time Dense SLAM with Gated Recurrent State, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.23737)]
 - EC3R-SLAM: Efficient and Consistent Monocular Dense SLAM with Feed-Forward 3D Reconstruction, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.02080v1)] [[Website](https://h0xg.github.io/ec3r/)] [[Code](https://github.com/h0xg/ec3r-slam)]
+- Visual Odometry with Transformers, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2510.03348)] [[Website](https://vladimiryugay.github.io/vot/index.html)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
