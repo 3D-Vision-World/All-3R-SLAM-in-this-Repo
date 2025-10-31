@@ -55,6 +55,7 @@
 - EC3R-SLAM: Efficient and Consistent Monocular Dense SLAM with Feed-Forward 3D Reconstruction, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.02080v1)] [[Website](https://h0xg.github.io/ec3r/)] [[Code](https://github.com/h0xg/ec3r-slam)]
 - Visual Odometry with Transformers, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2510.03348)] [[Website](https://vladimiryugay.github.io/vot/index.html)]
 - ARTDECO: Towards Efficient and High-Fidelity On-the-Fly 3D Reconstruction with Structured Scene Representation, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.08551)] [[Website](https://city-super.github.io/artdeco/)] [[Code](https://github.com/InternRobotics/ARTDECO)]
+- MASt3R-GS: Bridging 3D Reconstruction Priors with Gaussian Splatting for Real-Time Dense SLAM, *IROSw, 2025*. [[Paper](https://robogen-iros.github.io/accepted/12_MASt3R_GS_Bridging_3D_Recon.pdf)] 
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
