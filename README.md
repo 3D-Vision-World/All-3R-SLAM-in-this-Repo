@@ -61,5 +61,9 @@
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
 
+## Loop Closure Detection
+- Multi-modal Loop Closure Detection with Foundation Models in Severely Unstructured Environments, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2511.05404)]
+
+
 ## Downstream Tasks
 - SpatialLM: Training Large Language Models for Structured Indoor Modeling, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2506.07491)] [[Website](https://manycore-research.github.io/SpatialLM/)] [[Code](https://github.com/manycore-research/SpatialLM)]
