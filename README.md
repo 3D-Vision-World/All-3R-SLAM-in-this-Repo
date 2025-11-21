@@ -37,6 +37,8 @@
 - Streaming 4D Visual Geometry Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2507.11539)] [[Code](https://github.com/wzzheng/StreamVGGT)] [[Website](https://wzzheng.net/StreamVGGT/)]
 - MapAnything: Universal Feed-Forward Metric 3D Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.13414)] [[Code](https://github.com/facebookresearch/map-anything)] [[Website](https://map-anything.github.io/)]
 - TTT3R: 3D Reconstruction as Test-Time Training, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.26645)] [[Code](https://github.com/Inception3D/TTT3R)] [[Website](https://rover-xingyu.github.io/TTT3R/)]
+- Co-Me: Confidence Guided Token Merging for Visual Geometric Transformers, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2511.14751)] [[Code](https://github.com/co-me-tokens/CoMe)] [[Website](https://co-me-tokens.github.io/)]
+
 ## SLAM
 
 - Hier-slam++: Neuro-symbolic semantic slam with a hierarchically categorical gaussian splatting, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2502.14931)]
@@ -56,7 +58,8 @@
 - Visual Odometry with Transformers, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2510.03348)] [[Website](https://vladimiryugay.github.io/vot/index.html)]
 - ARTDECO: Towards Efficient and High-Fidelity On-the-Fly 3D Reconstruction with Structured Scene Representation, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.08551)] [[Website](https://city-super.github.io/artdeco/)] [[Code](https://github.com/InternRobotics/ARTDECO)]
 - MASt3R-GS: Bridging 3D Reconstruction Priors with Gaussian Splatting for Real-Time Dense SLAM, *IROSw, 2025*. [[Paper](https://robogen-iros.github.io/accepted/12_MASt3R_GS_Bridging_3D_Recon.pdf)]
-- LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally Consistent and Metric-Scale Dense Mapping, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.01186)] 
+- LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally Consistent and Metric-Scale Dense Mapping, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.01186)]
+- Building temporally coherent 3D maps with VGGT for memory-efficient Semantic SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.16282)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
