@@ -60,6 +60,7 @@
 - MASt3R-GS: Bridging 3D Reconstruction Priors with Gaussian Splatting for Real-Time Dense SLAM, *IROSw, 2025*. [[Paper](https://robogen-iros.github.io/accepted/12_MASt3R_GS_Bridging_3D_Recon.pdf)]
 - LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally Consistent and Metric-Scale Dense Mapping, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.01186)]
 - Building temporally coherent 3D maps with VGGT for memory-efficient Semantic SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.16282)]
+- SING3R-SLAM: Submap-based Indoor Monocular Gaussian SLAM with 3D Reconstruction Prior, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.17207)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
