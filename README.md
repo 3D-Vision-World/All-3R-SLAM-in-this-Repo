@@ -39,6 +39,7 @@
 - TTT3R: 3D Reconstruction as Test-Time Training, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.26645)] [[Code](https://github.com/Inception3D/TTT3R)] [[Website](https://rover-xingyu.github.io/TTT3R/)]
 - Co-Me: Confidence Guided Token Merging for Visual Geometric Transformers, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2511.14751)] [[Code](https://github.com/co-me-tokens/CoMe)] [[Website](https://co-me-tokens.github.io/)]
 - MB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2511.20343)]
+- VG3T: Visual Geometry Grounded Gaussian Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2512.05988)]
 
 ## SLAM
 
