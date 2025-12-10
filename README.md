@@ -65,6 +65,7 @@
 - SING3R-SLAM: Submap-based Indoor Monocular Gaussian SLAM with 3D Reconstruction Prior, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.17207)]
 - KM-ViPE: Online Tightly Coupled Vision-Language-Geometry Fusion for Open-Vocabulary Semantic SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.01889)] [[Code](https://github.com/be2rlab/km-vipe)]
 - Dynamic Visual SLAM using a General 3D Prior, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.06868)] [[Code](https://github.com/PRBonn/Pi3MOS-SLAM)]
+- OpenMonoGS-SLAM: Monocular Gaussian Splatting SLAM with Open-set Semantics, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.08625)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
