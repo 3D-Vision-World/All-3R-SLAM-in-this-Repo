@@ -77,3 +77,4 @@
 ## Downstream Tasks
 - SpatialLM: Training Large Language Models for Structured Indoor Modeling, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2506.07491)] [[Website](https://manycore-research.github.io/SpatialLM/)] [[Code](https://github.com/manycore-research/SpatialLM)]
 - Reloc-VGGT: Visual Re-localization with Geometry Grounded Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2512.21883)] [[Code](https://github.com/dtc111111/Reloc-VGGT)]
+- UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2512.21078)] [[Code](https://github.com/dtc111111/UniPR-3D)]
