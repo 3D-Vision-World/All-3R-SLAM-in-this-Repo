@@ -40,6 +40,8 @@
 - Co-Me: Confidence Guided Token Merging for Visual Geometric Transformers, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2511.14751)] [[Code](https://github.com/co-me-tokens/CoMe)] [[Website](https://co-me-tokens.github.io/)]
 - MB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2511.20343)]
 - VG3T: Visual Geometry Grounded Gaussian Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2512.05988)]
+- KV-Tracker: Real-Time Pose Tracking with Transformers, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2512.22581)] [[Website](https://marwan99.github.io/kv_tracker/)]
+
 
 ## SLAM
 
