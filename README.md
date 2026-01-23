@@ -42,6 +42,7 @@
 - VG3T: Visual Geometry Grounded Gaussian Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2512.05988)]
 - KV-Tracker: Real-Time Pose Tracking with Transformers, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2512.22581)] [[Website](https://marwan99.github.io/kv_tracker/)]
 - V-DPM: 4D Video Reconstruction with Dynamic Point Mapss, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2601.09499)] [[Website](https://www.robots.ox.ac.uk/~vgg/research/vdpm/)] [[Code](https://github.com/eldar/vdpm)]
+- Keyframe-Based Feed-Forward Visual Odometry, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2601.16020)] 
 
 
 ## SLAM
