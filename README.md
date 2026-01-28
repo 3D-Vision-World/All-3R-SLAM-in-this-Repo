@@ -42,7 +42,7 @@
 - VG3T: Visual Geometry Grounded Gaussian Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2512.05988)]
 - KV-Tracker: Real-Time Pose Tracking with Transformers, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2512.22581)] [[Website](https://marwan99.github.io/kv_tracker/)]
 - V-DPM: 4D Video Reconstruction with Dynamic Point Mapss, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2601.09499)] [[Website](https://www.robots.ox.ac.uk/~vgg/research/vdpm/)] [[Code](https://github.com/eldar/vdpm)]
-- Keyframe-Based Feed-Forward Visual Odometry, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2601.16020)] 
+
 
 
 ## SLAM
@@ -70,6 +70,8 @@
 - KM-ViPE: Online Tightly Coupled Vision-Language-Geometry Fusion for Open-Vocabulary Semantic SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.01889)] [[Code](https://github.com/be2rlab/km-vipe)]
 - Dynamic Visual SLAM using a General 3D Prior, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.06868)] [[Code](https://github.com/PRBonn/Pi3MOS-SLAM)]
 - OpenMonoGS-SLAM: Monocular Gaussian Splatting SLAM with Open-set Semantics, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.08625)]
+- Keyframe-Based Feed-Forward Visual Odometry, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2601.16020)] 
+- VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2601.19887)] 
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
