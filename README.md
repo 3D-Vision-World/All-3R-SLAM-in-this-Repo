@@ -71,7 +71,8 @@
 - Dynamic Visual SLAM using a General 3D Prior, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.06868)] [[Code](https://github.com/PRBonn/Pi3MOS-SLAM)]
 - OpenMonoGS-SLAM: Monocular Gaussian Splatting SLAM with Open-set Semantics, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.08625)]
 - Keyframe-Based Feed-Forward Visual Odometry, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2601.16020)] 
-- VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2601.19887)] 
+- VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2601.19887)]
+- VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2602.05508)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
