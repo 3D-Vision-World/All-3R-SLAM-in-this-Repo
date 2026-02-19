@@ -73,6 +73,7 @@
 - Keyframe-Based Feed-Forward Visual Odometry, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2601.16020)] 
 - VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2601.19887)]
 - VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2602.05508)]
+- VGGT-based online 3D semantic SLAM for indoor scene understanding and navigation, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2602.15899)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
