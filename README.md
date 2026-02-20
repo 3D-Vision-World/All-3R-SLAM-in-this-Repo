@@ -74,6 +74,7 @@
 - VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2601.19887)]
 - VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2602.05508)]
 - VGGT-based online 3D semantic SLAM for indoor scene understanding and navigation, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2602.15899)]
+- VGGT-Geo: Probabilistic Geometric Fusion of Visual Geometry Grounded Transformer Priors for Robust Dense Indoor SLAM, *ISPRS International Journal of Geo-Information 2026*. [[Paper](https://www.mdpi.com/2220-9964/15/2/85)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
