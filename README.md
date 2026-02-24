@@ -42,7 +42,8 @@
 - VG3T: Visual Geometry Grounded Gaussian Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2512.05988)]
 - KV-Tracker: Real-Time Pose Tracking with Transformers, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2512.22581)] [[Website](https://marwan99.github.io/kv_tracker/)]
 - V-DPM: 4D Video Reconstruction with Dynamic Point Mapss, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2601.09499)] [[Website](https://www.robots.ox.ac.uk/~vgg/research/vdpm/)] [[Code](https://github.com/eldar/vdpm)]
-- S-MUSt3R: Sliding Multi-view 3D Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2602.04517)] 
+- S-MUSt3R: Sliding Multi-view 3D Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2602.04517)]
+- Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2602.20157)] [[Website](https://flow3r-project.github.io/)] [[Code](https://github.com/Kidrauh/flow3r)]
 
 
 ## SLAM
@@ -75,15 +76,18 @@
 - VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2602.05508)]
 - VGGT-based online 3D semantic SLAM for indoor scene understanding and navigation, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2602.15899)]
 - VGGT-Geo: Probabilistic Geometric Fusion of Visual Geometry Grounded Transformer Priors for Robust Dense Indoor SLAM, *ISPRS International Journal of Geo-Information 2026*. [[Paper](https://www.mdpi.com/2220-9964/15/2/85)]
+- IRIS-SLAM: Unified Geo-Instance Representations for Robust Semantic Localization and Mapping, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2602.18709)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
 
-## Loop Closure Detection
+## Loop Closure Detection & Place Recognition
 - Multi-modal Loop Closure Detection with Foundation Models in Severely Unstructured Environments, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2511.05404)]
-
+- VGGT-MPR: VGGT-Enhanced Multimodal Place Recognition in Autonomous Driving Environments, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2602.19735)]
+- UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2512.21078)] [[Code](https://github.com/dtc111111/UniPR-3D)]
+- Reloc-VGGT: Visual Re-localization with Geometry Grounded Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2512.21883)] [[Code](https://github.com/dtc111111/Reloc-VGGT)]
 
 ## Downstream Tasks
 - SpatialLM: Training Large Language Models for Structured Indoor Modeling, *NIPS 2025*. [[Paper](https://arxiv.org/pdf/2506.07491)] [[Website](https://manycore-research.github.io/SpatialLM/)] [[Code](https://github.com/manycore-research/SpatialLM)]
-- Reloc-VGGT: Visual Re-localization with Geometry Grounded Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2512.21883)] [[Code](https://github.com/dtc111111/Reloc-VGGT)]
-- UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2512.21078)] [[Code](https://github.com/dtc111111/UniPR-3D)]
+
+
