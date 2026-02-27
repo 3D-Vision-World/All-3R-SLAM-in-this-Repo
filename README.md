@@ -44,6 +44,7 @@
 - V-DPM: 4D Video Reconstruction with Dynamic Point Mapss, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2601.09499)] [[Website](https://www.robots.ox.ac.uk/~vgg/research/vdpm/)] [[Code](https://github.com/eldar/vdpm)]
 - S-MUSt3R: Sliding Multi-view 3D Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2602.04517)]
 - Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2602.20157)] [[Website](https://flow3r-project.github.io/)] [[Code](https://github.com/Kidrauh/flow3r)]
+- VGG-T3: Offline Feed-Forward 3D Reconstruction at Scale, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2602.23361)] 
 
 
 ## SLAM
