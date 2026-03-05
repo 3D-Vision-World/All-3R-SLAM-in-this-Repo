@@ -46,6 +46,7 @@
 - Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2602.20157)] [[Website](https://flow3r-project.github.io/)] [[Code](https://github.com/Kidrauh/flow3r)]
 - VGG-T3: Offline Feed-Forward 3D Reconstruction at Scale, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2602.23361)]
 - OnlineX: Unified Online 3D Reconstruction and Understanding with Active-to-Stable State Evolution, *CVPR Finding 2026 2026*. [[Paper](https://arxiv.org/pdf/2603.02134)] [[Website](https://xiac20.github.io/OnlineX/)]
+- ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2603.04385)] [[Code](https://github.com/haian-jin/ZipMap)] [[Website](https://haian-jin.github.io/ZipMap/)]
 
 
 ## SLAM
