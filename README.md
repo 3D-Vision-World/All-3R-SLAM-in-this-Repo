@@ -49,6 +49,7 @@
 - ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2603.04385)] [[Code](https://github.com/haian-jin/ZipMap)] [[Website](https://haian-jin.github.io/ZipMap/)]
 - Dark3R: Learning Structure from Motion in the Dark, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2603.05330)] [[Website](https://andrewyguo.github.io/dark3r_webpage/)]
 - GGPT: Geometry-Grounded Point Transformer, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2603.11174)] [[Code](https://github.com/ChenYutongTHU/GGPT)] [[Website](https://chenyutongthu.github.io/research/ggpt/)]
+- Repurposing Geometric Foundation Models for Multi-view Diffusion, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2603.22275v1)] [[Code](https://github.com/cvlab-kaist/GLD/)] [[Website](https://cvlab-kaist.github.io/GLD/)
 
 ## SLAM
 
