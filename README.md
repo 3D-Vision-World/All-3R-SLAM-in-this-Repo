@@ -95,5 +95,6 @@
 
 ## Downstream Tasks
 - SpatialLM: Training Large Language Models for Structured Indoor Modeling, *NIPS 2025*. [[Paper](https://arxiv.org/pdf/2506.07491)] [[Website](https://manycore-research.github.io/SpatialLM/)] [[Code](https://github.com/manycore-research/SpatialLM)]
+- SpatialAnt: Autonomous Zero-Shot Robot Navigation via Active Scene Reconstruction and Visual Anticipation, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2603.26837)] [[Website](https://imnearth.github.io/Spatial-X/)] [[Code](https://github.com/IMNearth/Spatial-X)]
 
 
