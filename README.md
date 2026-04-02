@@ -52,6 +52,7 @@
 - Repurposing Geometric Foundation Models for Multi-view Diffusion, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2603.22275v1)] [[Code](https://github.com/cvlab-kaist/GLD/)] [[Website](https://cvlab-kaist.github.io/GLD/)
 - NOVA3R: Non-pixel-aligned Visual Transformer for Amodal 3D Reconstruction, *ICLR 2026*. [[Paper](https://arxiv.org/pdf/2603.04179)] [[Website](https://wrchen530.github.io/nova3r/)
 - StereoVGGT: A Training-Free Visual Geometry Transformer for Stereo Vision, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2603.29368)] [[Code](https://stereovggt.github.io/)]
+- Fisheye3R: Adapting Unified 3D Feed-Forward Foundation Models to Fisheye Lenses, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2603.28896)]
 
 ## SLAM
 
