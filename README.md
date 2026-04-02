@@ -73,7 +73,7 @@
 - Visual Odometry with Transformers, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2510.03348)] [[Website](https://vladimiryugay.github.io/vot/index.html)] [[Code](https://github.com/VladimirYugay/VoT)]
 - ARTDECO: Towards Efficient and High-Fidelity On-the-Fly 3D Reconstruction with Structured Scene Representation, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.08551)] [[Website](https://city-super.github.io/artdeco/)] [[Code](https://github.com/InternRobotics/ARTDECO)]
 - MASt3R-GS: Bridging 3D Reconstruction Priors with Gaussian Splatting for Real-Time Dense SLAM, *IROSw, 2025*. [[Paper](https://robogen-iros.github.io/accepted/12_MASt3R_GS_Bridging_3D_Recon.pdf)]
-- LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally Consistent and Metric-Scale Dense Mapping, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.01186)]
+- LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally Consistent and Metric-Scale Dense Mapping, *RAL, 2026*. [[Paper](https://arxiv.org/pdf/2511.01186)] [[Code](https://github.com/NorwegianSmokedSalmon/LiDAR-VGGT)]
 - Building temporally coherent 3D maps with VGGT for memory-efficient Semantic SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.16282)]
 - SING3R-SLAM: Submap-based Indoor Monocular Gaussian SLAM with 3D Reconstruction Prior, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.17207)]
 - KM-ViPE: Online Tightly Coupled Vision-Language-Geometry Fusion for Open-Vocabulary Semantic SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.01889)] [[Code](https://github.com/be2rlab/km-vipe)]
