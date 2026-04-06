@@ -86,6 +86,7 @@
 - VGGT-Geo: Probabilistic Geometric Fusion of Visual Geometry Grounded Transformer Priors for Robust Dense Indoor SLAM, *ISPRS International Journal of Geo-Information 2026*. [[Paper](https://www.mdpi.com/2220-9964/15/2/85)]
 - IRIS-SLAM: Unified Geo-Instance Representations for Robust Semantic Localization and Mapping, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2602.18709)]
 - AIM-SLAM: Dense Monocular SLAM via Adaptive and Informative Multi-View Keyframe Prioritization with Foundation Model, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2603.05097)] [[Website](https://aimslam.github.io/)]
+- Flash-Mono: Feed-Forward Accelerated Gaussian Splatting Monocular SLAM, *ICLR, 2026*. [[Paper](https://arxiv.org/pdf/2604.03092)] [[Website](https://victkk.github.io/flash-mono/)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
