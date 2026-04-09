@@ -88,6 +88,7 @@
 - AIM-SLAM: Dense Monocular SLAM via Adaptive and Informative Multi-View Keyframe Prioritization with Foundation Model, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2603.05097)] [[Website](https://aimslam.github.io/)]
 - Flash-Mono: Feed-Forward Accelerated Gaussian Splatting Monocular SLAM, *ICLR, 2026*. [[Paper](https://arxiv.org/pdf/2604.03092)] [[Website](https://victkk.github.io/flash-mono/)]
 - HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models, *ICLR, 2026*. [[Paper](https://arxiv.org/pdf/2604.02107)] [[Website](https://geneta2580.github.io/HyVGGT-VO.io/)]
+- VGGT-SLAM++, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.068307)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
