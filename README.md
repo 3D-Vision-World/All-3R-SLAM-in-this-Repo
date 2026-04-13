@@ -54,6 +54,7 @@
 - StereoVGGT: A Training-Free Visual Geometry Transformer for Stereo Vision, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2603.29368)] [[Code](https://stereovggt.github.io/)]
 - Fisheye3R: Adapting Unified 3D Feed-Forward Foundation Models to Fisheye Lenses, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2603.28896)]
 - Learning 3D Reconstruction with Priors in Test Time, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2604.03878)] [[Website](https://github.com/cvlab-stonybrook/TCO)
+- Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2604.08542)] [[Website](https://zju3dv.github.io/scal3r/) [[Code](https://github.com/zju3dv/Scal3R)]
 
 ## SLAM
 
@@ -90,6 +91,8 @@
 - Flash-Mono: Feed-Forward Accelerated Gaussian Splatting Monocular SLAM, *ICLR, 2026*. [[Paper](https://arxiv.org/pdf/2604.03092)] [[Website](https://victkk.github.io/flash-mono/)]
 - HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models, *ICLR, 2026*. [[Paper](https://arxiv.org/pdf/2604.02107)] [[Website](https://geneta2580.github.io/HyVGGT-VO.io/)]
 - VGGT-SLAM++, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.068307)]
+- Online3R: Online Learning for Consistent Sequential Reconstruction Based on Geometry Foundation Model, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2604.09480)] [[Website](https://shunkaizhou.github.io/online3r-1.0/)]
+- Accelerating Transformer-Based Monocular SLAM via Geometric Utility Scoring, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.08718)] [[Website](https://xinmiaoshawn.github.io/LeanGate/)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
