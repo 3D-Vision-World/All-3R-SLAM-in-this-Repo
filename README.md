@@ -3,6 +3,7 @@
 ## Survey Paper
 
 - Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2507.14501)] [[Website](https://fnzhan.com/projects/Feed-Forward-3D/)]
+- Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2604.14025)] [[Website](https://github.com/ziplab/Awesome-Feed-Forward-3D)]
 
 ## 3D Geometric Foundation Models (3R)
 
@@ -55,6 +56,7 @@
 - Fisheye3R: Adapting Unified 3D Feed-Forward Foundation Models to Fisheye Lenses, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2603.28896)]
 - Learning 3D Reconstruction with Priors in Test Time, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2604.03878)] [[Website](https://github.com/cvlab-stonybrook/TCO)
 - Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2604.08542)] [[Website](https://zju3dv.github.io/scal3r/) [[Code](https://github.com/zju3dv/Scal3R)]
+- Geometric Context Transformer for Streaming 3D Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2604.14141)] [[Website](https://technology.robbyant.com/lingbot-map) [[Code](https://github.com/robbyant/lingbot-map)]
 
 ## SLAM
 
