@@ -96,6 +96,7 @@
 - Online3R: Online Learning for Consistent Sequential Reconstruction Based on Geometry Foundation Model, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2604.09480)] [[Website](https://shunkaizhou.github.io/online3r-1.0/)]
 - Accelerating Transformer-Based Monocular SLAM via Geometric Utility Scoring, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.08718)] [[Website](https://xinmiaoshawn.github.io/LeanGate/)]
 - Keep It CALM: Toward Calibration-Free Kilometer-Level SLAM with Visual Geometry Foundation Models via an Assistant Eye, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.14795)] [[Code](https://github.com/IRMVLab/CALM)]
+MR.ScaleMaster: Scale-Consistent Collaborative Mapping from Crowd-Sourced Monocular Videos, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.11372)] [[Code](https://github.com/team-aprl/MR.ScaleMaster)]
 
 
 ## Calibration
