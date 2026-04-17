@@ -95,6 +95,8 @@
 - VGGT-SLAM++, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.068307)]
 - Online3R: Online Learning for Consistent Sequential Reconstruction Based on Geometry Foundation Model, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2604.09480)] [[Website](https://shunkaizhou.github.io/online3r-1.0/)]
 - Accelerating Transformer-Based Monocular SLAM via Geometric Utility Scoring, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.08718)] [[Website](https://xinmiaoshawn.github.io/LeanGate/)]
+- Keep It CALM: Toward Calibration-Free Kilometer-Level SLAM with Visual Geometry Foundation Models via an Assistant Eye, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.14795)] [[Code](https://github.com/IRMVLab/CALM)]
+
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
