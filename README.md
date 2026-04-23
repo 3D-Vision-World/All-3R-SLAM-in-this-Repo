@@ -57,6 +57,7 @@
 - Learning 3D Reconstruction with Priors in Test Time, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2604.03878)] [[Website](https://github.com/cvlab-stonybrook/TCO)
 - Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2604.08542)] [[Website](https://zju3dv.github.io/scal3r/) [[Code](https://github.com/zju3dv/Scal3R)]
 - (LingBot-Map) Geometric Context Transformer for Streaming 3D Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2604.14141)] [[Website](https://technology.robbyant.com/lingbot-map) [[Code](https://github.com/robbyant/lingbot-map)]
+- AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2604.19747)] [[Website](https://yutian10.github.io/AnyRecon/) [[Code](https://github.com/OpenImagingLab/AnyRecon)]
 
 ## SLAM
 
