@@ -98,7 +98,7 @@
 - Accelerating Transformer-Based Monocular SLAM via Geometric Utility Scoring, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.08718)] [[Website](https://xinmiaoshawn.github.io/LeanGate/)]
 - Keep It CALM: Toward Calibration-Free Kilometer-Level SLAM with Visual Geometry Foundation Models via an Assistant Eye, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.14795)] [[Code](https://github.com/IRMVLab/CALM)]
 - MR.ScaleMaster: Scale-Consistent Collaborative Mapping from Crowd-Sourced Monocular Videos, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.11372)] [[Code](https://github.com/team-aprl/MR.ScaleMaster)]
-
+- RADIO-ViPE: Online Tightly Coupled Multi-Modal Fusion for Open-Vocabulary Semantic SLAM in Dynamic Environments, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.26067)] [[Website](https://be2rlab.github.io/radio_vipe/)] [[Code](https://github.com/be2rlab/RADIO-ViPE)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
