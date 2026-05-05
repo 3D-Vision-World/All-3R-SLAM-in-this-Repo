@@ -74,7 +74,7 @@
 - SLAM-Former: Putting SLAM into One Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.16909)] [[Website](https://tsinghua-mars-lab.github.io/SLAM-Former/)] [[Code](https://github.com/Tsinghua-MARS-Lab/SLAM-Former)]
 - MASt3R-Fusion: Integrating Feed-Forward Visual Model with IMU, GNSS for High-Functionality SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.20757)] [[Code](https://github.com/GREAT-WHU/MASt3R-Fusion)]
 - GRS-SLAM3R: Real-Time Dense SLAM with Gated Recurrent State, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.23737)]
-- EC3R-SLAM: Efficient and Consistent Monocular Dense SLAM with Feed-Forward 3D Reconstruction, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.02080v1)] [[Website](https://h0xg.github.io/ec3r/)] [[Code](https://github.com/h0xg/ec3r-slam)]
+- EC3R-SLAM: Efficient and Consistent Monocular Dense SLAM with Feed-Forward 3D Reconstruction, *ICRA, 2026*. [[Paper](https://arxiv.org/pdf/2510.02080v1)] [[Website](https://h0xg.github.io/ec3r/)] [[Code](https://github.com/h0xg/ec3r-slam)]
 - Visual Odometry with Transformers, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2510.03348)] [[Website](https://vladimiryugay.github.io/vot/index.html)] [[Code](https://github.com/VladimirYugay/VoT)]
 - ARTDECO: Towards Efficient and High-Fidelity On-the-Fly 3D Reconstruction with Structured Scene Representation, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.08551)] [[Website](https://city-super.github.io/artdeco/)] [[Code](https://github.com/InternRobotics/ARTDECO)]
 - MASt3R-GS: Bridging 3D Reconstruction Priors with Gaussian Splatting for Real-Time Dense SLAM, *IROSw, 2025*. [[Paper](https://robogen-iros.github.io/accepted/12_MASt3R_GS_Bridging_3D_Recon.pdf)]
