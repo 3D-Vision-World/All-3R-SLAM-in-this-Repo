@@ -73,7 +73,7 @@
 - ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association, *3DV, 2026*. [[Paper](https://arxiv.org/pdf/2509.01584)] [[Code](https://github.com/zhangganlin/vista-slam)]
 - SLAM-Former: Putting SLAM into One Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.16909)] [[Website](https://tsinghua-mars-lab.github.io/SLAM-Former/)] [[Code](https://github.com/Tsinghua-MARS-Lab/SLAM-Former)]
 - MASt3R-Fusion: Integrating Feed-Forward Visual Model with IMU, GNSS for High-Functionality SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.20757)] [[Code](https://github.com/GREAT-WHU/MASt3R-Fusion)]
-- GRS-SLAM3R: Real-Time Dense SLAM with Gated Recurrent State, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.23737)]
+- GRS-SLAM3R: Real-Time Dense SLAM with Gated Recurrent State, *ICRA, 2026*. [[Paper](https://arxiv.org/pdf/2509.23737)]
 - EC3R-SLAM: Efficient and Consistent Monocular Dense SLAM with Feed-Forward 3D Reconstruction, *ICRA, 2026*. [[Paper](https://arxiv.org/pdf/2510.02080v1)] [[Website](https://h0xg.github.io/ec3r/)] [[Code](https://github.com/h0xg/ec3r-slam)]
 - Visual Odometry with Transformers, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2510.03348)] [[Website](https://vladimiryugay.github.io/vot/index.html)] [[Code](https://github.com/VladimirYugay/VoT)]
 - ARTDECO: Towards Efficient and High-Fidelity On-the-Fly 3D Reconstruction with Structured Scene Representation, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.08551)] [[Website](https://city-super.github.io/artdeco/)] [[Code](https://github.com/InternRobotics/ARTDECO)]
@@ -99,6 +99,7 @@
 - Keep It CALM: Toward Calibration-Free Kilometer-Level SLAM with Visual Geometry Foundation Models via an Assistant Eye, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.14795)] [[Code](https://github.com/IRMVLab/CALM)]
 - MR.ScaleMaster: Scale-Consistent Collaborative Mapping from Crowd-Sourced Monocular Videos, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.11372)] [[Code](https://github.com/team-aprl/MR.ScaleMaster)]
 - RADIO-ViPE: Online Tightly Coupled Multi-Modal Fusion for Open-Vocabulary Semantic SLAM in Dynamic Environments, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.26067)] [[Website](https://be2rlab.github.io/radio_vipe/)] [[Code](https://github.com/be2rlab/RADIO-ViPE)]
+- MASTD3R-SLAM: Monocular Adaptive Semantic Tracking and Dynamic Reconstruction SLAM, *ICRA, 2026*. Paper-todo
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
