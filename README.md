@@ -30,7 +30,7 @@
 - Dens3R: A Foundation Model for 3D Geometry Prediction, *ICCV 2025*. [[Paper](https://arxiv.org/pdf/2507.16290v1)] [[Code](https://github.com/G-1nOnly/Dens3R)] [[Website](https://g-1nonly.github.io/Dens3R/)]
 - LONG3R: Long Sequence Streaming 3D Reconstruction, *ICCV 2025*. [[Paper](https://arxiv.org/pdf/2507.18255)] [[Code](https://github.com/zgchen33/LONG3R/)] [[Website](https://zgchen33.github.io/LONG3R/)]
 - PanoSplatt3R: Leveraging Perspective Pretraining for Generalized Unposed Wide-Baseline Panorama Reconstruction, *ICCV 2025*. [[Paper](https://arxiv.org/pdf/2507.21960)] [[Code]()] [[Website](https://npucvr.github.io/PanoSplatt3R/)]
-- Ov3R: Open-Vocabulary Semantic 3D Reconstruction from RGB Videos, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2507.22052)]
+- Ov3R: Open-Vocabulary Semantic 3D Reconstruction from RGB Videos, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2507.22052)]
 - G-CUT3R: Guided 3D Reconstruction with Camera and Depth Prior Integration, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2508.11379)]
 - ViPE: Video Pose Engine for 3D Geometric Perception, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2508.10934)] [[Code](https://github.com/nv-tlabs/vipe)] [[Website](https://research.nvidia.com/labs/toronto-ai/vipe/)]
 - FastVGGT: Training-Free Acceleration of Visual Geometry Transformer, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.02560)]
@@ -100,6 +100,7 @@
 - MR.ScaleMaster: Scale-Consistent Collaborative Mapping from Crowd-Sourced Monocular Videos, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.11372)] [[Code](https://github.com/team-aprl/MR.ScaleMaster)]
 - RADIO-ViPE: Online Tightly Coupled Multi-Modal Fusion for Open-Vocabulary Semantic SLAM in Dynamic Environments, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.26067)] [[Website](https://be2rlab.github.io/radio_vipe/)] [[Code](https://github.com/be2rlab/RADIO-ViPE)]
 - MASTD3R-SLAM: Monocular Adaptive Semantic Tracking and Dynamic Reconstruction SLAM, *ICRA, 2026*. Paper-todo
+- AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2511.20343)] [[Website](https://hengyiwang.github.io/projects/amber)] [[Code](https://github.com/HengyiWang/amb3r)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
