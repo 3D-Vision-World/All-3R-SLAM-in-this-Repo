@@ -56,7 +56,6 @@
 - Fisheye3R: Adapting Unified 3D Feed-Forward Foundation Models to Fisheye Lenses, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2603.28896)]
 - Learning 3D Reconstruction with Priors in Test Time, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2604.03878)] [[Website](https://github.com/cvlab-stonybrook/TCO)
 - Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2604.08542)] [[Website](https://zju3dv.github.io/scal3r/) [[Code](https://github.com/zju3dv/Scal3R)]
-- (LingBot-Map) Geometric Context Transformer for Streaming 3D Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2604.14141)] [[Website](https://technology.robbyant.com/lingbot-map) [[Code](https://github.com/robbyant/lingbot-map)]
 - AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2604.19747)] [[Website](https://yutian10.github.io/AnyRecon/) [[Code](https://github.com/OpenImagingLab/AnyRecon)]
 - Emergent Extreme-View Geometry in 3D Foundation Models, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2511.22686)] [[Website](https://cornell-vailab.github.io/Ext-3DFMs/) [[Code](https://github.com/theREALevan/extreme-view-3dfm)]
 
@@ -103,6 +102,7 @@
 - MASTD3R-SLAM: Monocular Adaptive Semantic Tracking and Dynamic Reconstruction SLAM, *ICRA, 2026*. Paper-todo
 - AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2511.20343)] [[Website](https://hengyiwang.github.io/projects/amber)] [[Code](https://github.com/HengyiWang/amb3r)]
 - TALO: Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction, *CVPR, 2026*. [[Paper]()] [[Website]()] [[Code](https://github.com/Xian-Bei/TALO)]
+- (LingBot-Map) Geometric Context Transformer for Streaming 3D Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2604.14141)] [[Website](https://technology.robbyant.com/lingbot-map) [[Code](https://github.com/robbyant/lingbot-map)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
