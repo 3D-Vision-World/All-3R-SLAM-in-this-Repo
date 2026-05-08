@@ -103,6 +103,7 @@
 - AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2511.20343)] [[Website](https://hengyiwang.github.io/projects/amber)] [[Code](https://github.com/HengyiWang/amb3r)]
 - TALO: Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction, *CVPR, 2026*. [[Paper]()] [[Website]()] [[Code](https://github.com/Xian-Bei/TALO)]
 - (LingBot-Map) Geometric Context Transformer for Streaming 3D Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2604.14141)] [[Website](https://technology.robbyant.com/lingbot-map) [[Code](https://github.com/robbyant/lingbot-map)]
+- TopoMA: Topology-Guided Multi-Agent Dense RGB 3D Reconstruction via Distributed Inference, *CVPR, 2026*. Paper-todo
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
