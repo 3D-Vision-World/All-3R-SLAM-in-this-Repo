@@ -59,6 +59,7 @@
 - AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2604.19747)] [[Website](https://yutian10.github.io/AnyRecon/) [[Code](https://github.com/OpenImagingLab/AnyRecon)]
 - Emergent Extreme-View Geometry in 3D Foundation Models, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2511.22686)] [[Website](https://cornell-vailab.github.io/Ext-3DFMs/) [[Code](https://github.com/theREALevan/extreme-view-3dfm)]
 - VGGT-Ω, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2605.15195)] [[Website](https://vggt-omega.github.io/) [[Code](https://github.com/facebookresearch/vggt-omega)]
+- Mamba-VGGT: Persistent Long-Sequence Video Geometry Grounded Transformer via External Sliding Window Mamba Memory, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2605.17478)]
 
 ## SLAM
 
@@ -107,6 +108,7 @@
 - TopoMA: Topology-Guided Multi-Agent Dense RGB 3D Reconstruction via Distributed Inference, *CVPR, 2026*. Paper-todo
 - LEXI-SG: Monocular 3D Scene Graph Mapping with Room-Guided Feed-Forward Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2605.13741)]
 - M^3: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2603.16844)] [[Website](https://city-super.github.io/M3/)] [[Code](https://github.com/InternRobotics/M3)]
+- Efficient Feature-Free Initialization for Monocular Visual-Inertial Systems Using a Feed-Forward 3D Model, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2605.17327)] [[Code](https://github.com/Yuantai-Z/FF-VIO-Init)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
