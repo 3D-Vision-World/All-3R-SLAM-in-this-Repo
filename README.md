@@ -109,6 +109,7 @@
 - LEXI-SG: Monocular 3D Scene Graph Mapping with Room-Guided Feed-Forward Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2605.13741)]
 - M^3: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2603.16844)] [[Website](https://city-super.github.io/M3/)] [[Code](https://github.com/InternRobotics/M3)]
 - Efficient Feature-Free Initialization for Monocular Visual-Inertial Systems Using a Feed-Forward 3D Model, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2605.17327)] [[Code](https://github.com/Yuantai-Z/FF-VIO-Init)]
+- PRISM-SLAM: Probabilistic Ray-Grounded Inference for Scale-aware Metric SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2605.19257)] [[Website](https://prismslam-cmd.github.io/prismslam_pr/)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
