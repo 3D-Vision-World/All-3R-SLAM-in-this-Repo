@@ -60,6 +60,7 @@
 - Emergent Extreme-View Geometry in 3D Foundation Models, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2511.22686)] [[Website](https://cornell-vailab.github.io/Ext-3DFMs/) [[Code](https://github.com/theREALevan/extreme-view-3dfm)]
 - VGGT-Ω, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2605.15195)] [[Website](https://vggt-omega.github.io/) [[Code](https://github.com/facebookresearch/vggt-omega)]
 - Mamba-VGGT: Persistent Long-Sequence Video Geometry Grounded Transformer via External Sliding Window Mamba Memory, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2605.17478)]
+- UNIT: Unified Geometry Learning with Group Autoregressive Transformer, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2605.21131)] [[Website](https://sc2i-hkustgz.github.io/UniT/) [[Code](https://github.com/Wang-xjtu/UniT)]
 
 ## SLAM
 
