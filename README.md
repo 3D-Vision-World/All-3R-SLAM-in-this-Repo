@@ -61,6 +61,8 @@
 - VGGT-Ω, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2605.15195)] [[Website](https://vggt-omega.github.io/) [[Code](https://github.com/facebookresearch/vggt-omega)]
 - Mamba-VGGT: Persistent Long-Sequence Video Geometry Grounded Transformer via External Sliding Window Mamba Memory, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2605.17478)]
 - UNIT: Unified Geometry Learning with Group Autoregressive Transformer, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2605.21131)] [[Website](https://sc2i-hkustgz.github.io/UniT/) [[Code](https://github.com/Wang-xjtu/UniT)]
+- Global Structure-from-Motion Meets Feedforward Reconstruction, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2605.26103)] [[Website](https://lpanaf.github.io/cvpr26_gluemap/) [[Code](https://github.com/colmap/gluemap)]
+- TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2605.26115)] [[Website](https://lhmd.top/trisplat/) [[Code](https://github.com/ziplab/TriSplat)]
 
 ## SLAM
 
