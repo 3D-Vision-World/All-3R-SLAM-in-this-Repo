@@ -63,6 +63,8 @@
 - UNIT: Unified Geometry Learning with Group Autoregressive Transformer, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2605.21131)] [[Website](https://sc2i-hkustgz.github.io/UniT/) [[Code](https://github.com/Wang-xjtu/UniT)]
 - Global Structure-from-Motion Meets Feedforward Reconstruction, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2605.26103)] [[Website](https://lpanaf.github.io/cvpr26_gluemap/) [[Code](https://github.com/colmap/gluemap)]
 - TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2605.26115)] [[Website](https://lhmd.top/trisplat/) [[Code](https://github.com/ziplab/TriSplat)]
+- R3: 3D Reconstruction via Relative Regression, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2605.26519)] [[Website](https://kevinxu02.github.io/r3-site/) [[Code](https://github.com/KevinXu02/R3)]
+
 
 ## SLAM
 
