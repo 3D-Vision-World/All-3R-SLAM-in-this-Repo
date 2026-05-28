@@ -50,7 +50,7 @@
 - ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2603.04385)] [[Code](https://github.com/haian-jin/ZipMap)] [[Website](https://haian-jin.github.io/ZipMap/)]
 - Dark3R: Learning Structure from Motion in the Dark, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2603.05330)] [[Website](https://andrewyguo.github.io/dark3r_webpage/)]
 - GGPT: Geometry-Grounded Point Transformer, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2603.11174)] [[Code](https://github.com/ChenYutongTHU/GGPT)] [[Website](https://chenyutongthu.github.io/research/ggpt/)]
-- Repurposing Geometric Foundation Models for Multi-view Diffusion, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2603.22275v1)] [[Code](https://github.com/cvlab-kaist/GLD/)] [[Website](https://cvlab-kaist.github.io/GLD/)
+- Repurposing Geometric Foundation Models for Multi-view Diffusion, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2603.22275v1)] [[Code](https://github.com/cvlab-kaist/GLD/)] [[Website](https://cvlab-kaist.github.io/GLD/)]
 - NOVA3R: Non-pixel-aligned Visual Transformer for Amodal 3D Reconstruction, *ICLR 2026*. [[Paper](https://arxiv.org/pdf/2603.04179)] [[Website](https://wrchen530.github.io/nova3r/)
 - StereoVGGT: A Training-Free Visual Geometry Transformer for Stereo Vision, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2603.29368)] [[Code](https://stereovggt.github.io/)]
 - Fisheye3R: Adapting Unified 3D Feed-Forward Foundation Models to Fisheye Lenses, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2603.28896)]
