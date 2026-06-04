@@ -117,6 +117,7 @@
 - PRISM-SLAM: Probabilistic Ray-Grounded Inference for Scale-aware Metric SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2605.19257)] [[Website](https://prismslam-cmd.github.io/prismslam_pr/)]
 - CoMo3R-SLAM: Collaborative Monocular Dense SLAM with Learned 3D Reconstruction Priors for Outdoor Multi-Agent Systems, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2605.30488)] [[Website](https://como3r-slam.github.io/)]
 - ScaRF-SLAM: Scale-Consistent Reconstruction with Feed-Forward Models and Classical Visual SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2606.00307)] [[Code](https://github.com/ori-drs/ScaRF-SLAM)]
+- Anchor3R: Streaming 3D Reconstruction with Transient Anchors for Long-Horizon Visual Mapping, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2606.05035)] 
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
