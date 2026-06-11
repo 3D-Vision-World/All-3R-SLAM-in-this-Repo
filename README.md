@@ -92,7 +92,7 @@
 - Dynamic Visual SLAM using a General 3D Prior, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2512.06868)] [[Code](https://github.com/PRBonn/Pi3MOS-SLAM)]
 - OpenMonoGS-SLAM: Monocular Gaussian Splatting SLAM with Open-set Semantics, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.08625)]
 - Keyframe-Based Feed-Forward Visual Odometry, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2601.16020)] 
-- VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2601.19887)]
+- VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction, *RSS 2026*. [[Paper](https://arxiv.org/pdf/2601.19887)]
 - VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2602.05508)]
 - VGGT-based online 3D semantic SLAM for indoor scene understanding and navigation, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2602.15899)]
 - VGGT-Geo: Probabilistic Geometric Fusion of Visual Geometry Grounded Transformer Priors for Robust Dense Indoor SLAM, *ISPRS International Journal of Geo-Information 2026*. [[Paper](https://www.mdpi.com/2220-9964/15/2/85)]
@@ -113,7 +113,7 @@
 - TopoMA: Topology-Guided Multi-Agent Dense RGB 3D Reconstruction via Distributed Inference, *CVPR, 2026*. Paper-todo
 - LEXI-SG: Monocular 3D Scene Graph Mapping with Room-Guided Feed-Forward Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2605.13741)]
 - M^3: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2603.16844)] [[Website](https://city-super.github.io/M3/)] [[Code](https://github.com/InternRobotics/M3)]
-- Efficient Feature-Free Initialization for Monocular Visual-Inertial Systems Using a Feed-Forward 3D Model, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2605.17327)] [[Code](https://github.com/Yuantai-Z/FF-VIO-Init)]
+- Efficient Feature-Free Initialization for Monocular Visual-Inertial Systems Using a Feed-Forward 3D Model, *RSS, 2026*. [[Paper](https://arxiv.org/pdf/2605.17327)] [[Code](https://github.com/Yuantai-Z/FF-VIO-Init)]
 - PRISM-SLAM: Probabilistic Ray-Grounded Inference for Scale-aware Metric SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2605.19257)] [[Website](https://prismslam-cmd.github.io/prismslam_pr/)]
 - CoMo3R-SLAM: Collaborative Monocular Dense SLAM with Learned 3D Reconstruction Priors for Outdoor Multi-Agent Systems, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2605.30488)] [[Website](https://como3r-slam.github.io/)]
 - ScaRF-SLAM: Scale-Consistent Reconstruction with Feed-Forward Models and Classical Visual SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2606.00307)] [[Code](https://github.com/ori-drs/ScaRF-SLAM)]
