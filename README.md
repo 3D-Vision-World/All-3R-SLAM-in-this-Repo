@@ -64,6 +64,7 @@
 - Global Structure-from-Motion Meets Feedforward Reconstruction, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2605.26103)] [[Website](https://lpanaf.github.io/cvpr26_gluemap/) [[Code](https://github.com/colmap/gluemap)]
 - TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2605.26115)] [[Website](https://lhmd.top/trisplat/) [[Code](https://github.com/ziplab/TriSplat)]
 - R3: 3D Reconstruction via Relative Regression, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2605.26519)] [[Website](https://kevinxu02.github.io/r3-site/) [[Code](https://github.com/KevinXu02/R3)]
+- EPO: Boosting 3D Foundation Models with Edge-based Pose Optimization, *ECCV 2026*. [[Paper](https://arxiv.org/pdf/2607.00579)]
 
 
 ## SLAM
