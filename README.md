@@ -65,11 +65,11 @@
 - TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2605.26115)] [[Website](https://lhmd.top/trisplat/) [[Code](https://github.com/ziplab/TriSplat)]
 - R3: 3D Reconstruction via Relative Regression, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2605.26519)] [[Website](https://kevinxu02.github.io/r3-site/) [[Code](https://github.com/KevinXu02/R3)]
 - EPO: Boosting 3D Foundation Models with Edge-based Pose Optimization, *ECCV 2026*. [[Paper](https://arxiv.org/pdf/2607.00579)]
-
+- RayTun3R: Online Camera Adaptation in 3D Foundation Models, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2607.02711)]
 
 ## SLAM
 
-- Hier-slam++: Neuro-symbolic semantic slam with a hierarchically categorical gaussian splatting, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2502.14931)]
+- Hier-SLAM++: Neuro-symbolic semantic slam with a hierarchically categorical Gaussian splatting, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2502.14931)]
 - MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos, *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2412.04463)] [[Website](https://mega-sam.github.io/)] [[Code](https://github.com/mega-sam/mega-sam)]
 - SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos, *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2412.09401)] [[Code](https://github.com/PKU-VCL-3DV/SLAM3R)]
 - MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors, *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2412.12392)] [[Website](https://edexheim.github.io/mast3r-slam/)] [[Code](https://github.com/rmurai0610/MASt3R-SLAM)]
