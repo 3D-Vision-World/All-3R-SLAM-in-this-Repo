@@ -121,6 +121,8 @@
 - Anchor3R: Streaming 3D Reconstruction with Transient Anchors for Long-Horizon Visual Mapping, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2606.05035)] 
 - GeoGS-SLAM: Online Monocular Reconstruction Using Gaussian Splatting with Geometric Priors, *ICRA, 2026*. [[Paper](https://arxiv.org/pdf/2607.11184)] [[Website](https://rlgao.github.io/geogs_slam/)]
 - MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos, *ECCV 2026*. [[Paper](https://arxiv.org/pdf/2607.15211)] [[Website](https://zorangong.github.io/magist3r_page/)]
+- Look Up and Look Back: Hidden Attention and Latent Orientation in a Frozen Foundation Model for Panoramic SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.00925)]
+- UniSim-SLAM: Feed-Forward SLAM with Unified Sim(3) Optimization, *ECCV, 2026*. [[Paper](https://arxiv.org/pdf/2608.01706)] [[Website](https://vision3d-lab.github.io/unisim-slam/)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
