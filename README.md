@@ -124,6 +124,7 @@
 - Look Up and Look Back: Hidden Attention and Latent Orientation in a Frozen Foundation Model for Panoramic SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.00925)]
 - UniSim-SLAM: Feed-Forward SLAM with Unified Sim(3) Optimization, *ECCV, 2026*. [[Paper](https://arxiv.org/pdf/2608.01706)] [[Website](https://vision3d-lab.github.io/unisim-slam/)]
 - SLAMFormer-∞: Infinite SLAM Transformer for Unbounded Frontend and Backend Processing, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.03429)] [[Website](https://tsinghua-mars-lab.github.io/SLAMFormer-Infinity/)]
+- MVOFormer: Flow-Semantic Transformer for Robust Monocular Visual Odometry, *RAL, 2026*. [[Paper](https://arxiv.org/pdf/2606.16474)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
