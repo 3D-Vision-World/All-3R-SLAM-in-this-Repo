@@ -100,7 +100,7 @@
 - IRIS-SLAM: Unified Geo-Instance Representations for Robust Semantic Localization and Mapping, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2602.18709)]
 - AIM-SLAM: Dense Monocular SLAM via Adaptive and Informative Multi-View Keyframe Prioritization with Foundation Model, *ICRA, 2026*. [[Paper](https://arxiv.org/pdf/2603.05097)] [[Website](https://aimslam.github.io/)]
 - Flash-Mono: Feed-Forward Accelerated Gaussian Splatting Monocular SLAM, *ICLR, 2026*. [[Paper](https://arxiv.org/pdf/2604.03092)] [[Website](https://victkk.github.io/flash-mono/)]
-- HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models, *ICLR, 2026*. [[Paper](https://arxiv.org/pdf/2604.02107)] [[Website](https://geneta2580.github.io/HyVGGT-VO.io/)]
+- HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models, *RAL, 2026*. [[Paper](https://arxiv.org/pdf/2604.02107)] [[Website](https://geneta2580.github.io/HyVGGT-VO.io/)] [[Code](https://github.com/Geneta2580/HyVGGT-VO)]
 - VGGT-SLAM++, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.068307)]
 - Online3R: Online Learning for Consistent Sequential Reconstruction Based on Geometry Foundation Model, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2604.09480)] [[Website](https://shunkaizhou.github.io/online3r-1.0/)]
 - Accelerating Transformer-Based Monocular SLAM via Geometric Utility Scoring, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.08718)] [[Website](https://xinmiaoshawn.github.io/LeanGate/)]
