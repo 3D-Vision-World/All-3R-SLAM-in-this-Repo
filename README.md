@@ -66,6 +66,7 @@
 - R3: 3D Reconstruction via Relative Regression, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2605.26519)] [[Website](https://kevinxu02.github.io/r3-site/) [[Code](https://github.com/KevinXu02/R3)]
 - EPO: Boosting 3D Foundation Models with Edge-based Pose Optimization, *ECCV 2026*. [[Paper](https://arxiv.org/pdf/2607.00579)]
 - RayTun3R: Online Camera Adaptation in 3D Foundation Models, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2607.02711)]
+- VI3: Grounding Pretrained 3D Foundation Models with Inertial Cues, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2609.03824)] [[Website](https://ernestolozano.github.io/vi3/)
 
 ## SLAM
 
