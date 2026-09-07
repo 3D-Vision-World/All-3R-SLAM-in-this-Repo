@@ -128,6 +128,7 @@
 - VGGT-Align: Bridging Local Reconstruction and Global Consistency for Long-Sequence 3D Reconstruction, *ACM MM, 2026*. [[Paper](https://arxiv.org/pdf/2608.15260)] [[Code](https://github.com/WZ-CS/VGGT-Align)]
 - On-the-Fly3R: Towards Robust Online 3D Reconstruction with Feed-Forward 3R Models for Large-Scale UAV Scenarios, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.00923)] [[Code](https://github.com/Sh1nZzz/On_)]
 - VOIM: Training-Free Open-Vocabulary 3D Instance Mapping for RGB-D and Monocular SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.00775)]
+- RoSe-SLAM: Robust Semantic-Aware Gaussian Splatting SLAM from Dynamic Monocular Videos, *IROS, 2026*. [[Paper](https://arxiv.org/pdf/2608.29003)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
