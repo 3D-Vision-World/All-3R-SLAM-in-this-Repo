@@ -67,6 +67,7 @@
 - EPO: Boosting 3D Foundation Models with Edge-based Pose Optimization, *ECCV 2026*. [[Paper](https://arxiv.org/pdf/2607.00579)]
 - RayTun3R: Online Camera Adaptation in 3D Foundation Models, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2607.02711)]
 - VI3: Grounding Pretrained 3D Foundation Models with Inertial Cues, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2609.03824)] [[Website](https://ernestolozano.github.io/vi3/)
+- Hierarchical Structure-from-Motion Scales Feedforward Reconstruction, *arXiv 2026*. [[Paper](https://openreview.net/pdf?id=dZpJy2vZPH)]
 
 ## SLAM
 
