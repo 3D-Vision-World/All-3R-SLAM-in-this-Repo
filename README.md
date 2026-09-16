@@ -134,6 +134,7 @@
 - FoundationSLAM: Unleashing the Power of Depth Foundation Models for End-to-End Dense Visual SLAM, *AAAI, 2026*. [[Paper](https://arxiv.org/abs/2512.25008)]
 - Functional-SLAM: Interaction-Aware Mapping with Online Functional Scene Graphs, *CoRL, 2026*. [[Paper](https://arxiv.org/pdf/2609.07497)] [[Code](https://github.com/Hbelief1998/Functional-SLAM-CoRL_2026)]
 - FFVO: A Feedforward Pose Decoder for Long-Horizon Visual Odometry, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.13733v1)]
+- SURE-Map: Self-Correcting Streaming Geometric Foundation Models, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.15795v1)] [[Website](https://mingkai-liu.github.io/projects/sure-map/) [[Code](https://github.com/RCL-Robotics/SURE-map)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
