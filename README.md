@@ -139,6 +139,8 @@
 - AMB3R-SLAM: Kilometer-scale SLAM with Hierarchical Backend, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.19518)] [[Website](https://hengyiwang.github.io/projects/amber-slam)] [[Code](https://github.com/HengyiWang/amb3r-slam)]
 - GRF-Recon: Global Ray-Field Optimization for Long-Sequence Feed-forward Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.20012)]
 - Dense Monocular SLAM in Real-Time With Structured Gaussian Representation, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/document/11052667)]
+- Adaptive World Memory 3D Foundation Model for Scalable 3D Mapping, Localization, and Rendering, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.21502)] [[Code](https://github.com/dtc111111/AWM-3DFM)]
+- NOCTIF3R: Feed-Forward Monocular Real-Time SLAM for Photon-Limited Scenes on Embedded Hardware, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.21114)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
