@@ -134,13 +134,14 @@
 - FoundationSLAM: Unleashing the Power of Depth Foundation Models for End-to-End Dense Visual SLAM, *AAAI, 2026*. [[Paper](https://arxiv.org/abs/2512.25008)]
 - Functional-SLAM: Interaction-Aware Mapping with Online Functional Scene Graphs, *CoRL, 2026*. [[Paper](https://arxiv.org/pdf/2609.07497)] [[Code](https://github.com/Hbelief1998/Functional-SLAM-CoRL_2026)]
 - FFVO: A Feedforward Pose Decoder for Long-Horizon Visual Odometry, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.13733v1)]
-- SURE-Map: Self-Correcting Streaming Geometric Foundation Models, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.15795v1)] [[Website](https://mingkai-liu.github.io/projects/sure-map/) [[Code](https://github.com/RCL-Robotics/SURE-map)]
+- SURE-Map: Self-Correcting Streaming Geometric Foundation Models, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.15795v1)] [[Website](https://mingkai-liu.github.io/projects/sure-map/)] [[Code](https://github.com/RCL-Robotics/SURE-map)]
 - VGGT-GS SLAM: Uncalibrated Monocular Gaussian Splatting SLAM with Feed-Forward Priors, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.19628)]
 - AMB3R-SLAM: Kilometer-scale SLAM with Hierarchical Backend, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.19518)] [[Website](https://hengyiwang.github.io/projects/amber-slam)] [[Code](https://github.com/HengyiWang/amb3r-slam)]
 - GRF-Recon: Global Ray-Field Optimization for Long-Sequence Feed-forward Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.20012)]
 - Dense Monocular SLAM in Real-Time With Structured Gaussian Representation, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/document/11052667)]
 - Adaptive World Memory 3D Foundation Model for Scalable 3D Mapping, Localization, and Rendering, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.21502)] [[Code](https://github.com/dtc111111/AWM-3DFM)]
 - NOCTIF3R: Feed-Forward Monocular Real-Time SLAM for Photon-Limited Scenes on Embedded Hardware, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.21114)]
+- DAVIO: Dense Monocular–Inertial SLAM with Feed-Forward Initialization and Pose-Conditioned Mapping, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.27702)] [[Website](https://be2rlab.github.io/DAVIO/)] [[Code](https://github.com/be2rlab/DAVIO)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
