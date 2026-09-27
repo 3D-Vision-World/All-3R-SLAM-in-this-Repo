@@ -62,13 +62,14 @@
 - Mamba-VGGT: Persistent Long-Sequence Video Geometry Grounded Transformer via External Sliding Window Mamba Memory, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2605.17478)]
 - UNIT: Unified Geometry Learning with Group Autoregressive Transformer, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2605.21131)] [[Website](https://sc2i-hkustgz.github.io/UniT/) [[Code](https://github.com/Wang-xjtu/UniT)]
 - Global Structure-from-Motion Meets Feedforward Reconstruction, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2605.26103)] [[Website](https://lpanaf.github.io/cvpr26_gluemap/) [[Code](https://github.com/colmap/gluemap)]
-- TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2605.26115)] [[Website](https://lhmd.top/trisplat/) [[Code](https://github.com/ziplab/TriSplat)]
+- TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2605.26115)] [[Website](https://lhmd.top/trisplat/)] [[Code](https://github.com/ziplab/TriSplat)]
 - R3: 3D Reconstruction via Relative Regression, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2605.26519)] [[Website](https://kevinxu02.github.io/r3-site/) [[Code](https://github.com/KevinXu02/R3)]
 - EPO: Boosting 3D Foundation Models with Edge-based Pose Optimization, *ECCV 2026*. [[Paper](https://arxiv.org/pdf/2607.00579)]
 - RayTun3R: Online Camera Adaptation in 3D Foundation Models, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2607.02711)]
 - VI3: Grounding Pretrained 3D Foundation Models with Inertial Cues, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2609.03824)] [[Website](https://ernestolozano.github.io/vi3/)
 - Hierarchical Structure-from-Motion Scales Feedforward Reconstruction, *arXiv 2026*. [[Paper](https://openreview.net/pdf?id=dZpJy2vZPH)]
 - RoMa-Ω: What Feed-Forward 3D Models Know About Image Matching, *ECCVw 2026*. [[Paper](https://arxiv.org/pdf/2609.09507)] [[Code](https://github.com/davnords/RoMa-Omega)]
+- What VGGT Knows About Overlap: Probing Geometric Foundation Models for Co-Visibility, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2607.09503)] [[Code](https://github.com/filippoziliotto/covisibility-probing/)]
 
 ## SLAM
 
