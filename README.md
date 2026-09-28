@@ -143,6 +143,8 @@
 - Adaptive World Memory 3D Foundation Model for Scalable 3D Mapping, Localization, and Rendering, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.21502)] [[Code](https://github.com/dtc111111/AWM-3DFM)]
 - NOCTIF3R: Feed-Forward Monocular Real-Time SLAM for Photon-Limited Scenes on Embedded Hardware, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.21114)]
 - DAVIO: Dense Monocular–Inertial SLAM with Feed-Forward Initialization and Pose-Conditioned Mapping, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.27702)] [[Website](https://be2rlab.github.io/DAVIO/)] [[Code](https://github.com/be2rlab/DAVIO)]
+- PROFusion: Robust and Accurate Dense Reconstruction via Camera Pose Regression and Optimization, *ICRA, 2026*. [[Paper](https://arxiv.org/pdf/2509.24236)] [[Code](https://github.com/siyandong/PROFusion)]
+
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
