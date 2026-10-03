@@ -147,6 +147,7 @@
 - World SLAM Model: Joint World Modeling for SLAM and Navigation, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.32626)] [[Code](https://github.com/Tsinghua-MARS-Lab/WorldSLAMModel)] [[Website](https://tsinghua-mars-lab.github.io/WorldSLAMModel/)]
 - StreamRig: Exploiting Intra-Rig Geometry for Streaming Multi-Camera Odometry, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.40244)] [[Code](https://github.com/WeiYuFei0217/StreamRig)] [[Website](https://weiyufei0217.github.io/StreamRig/)]
 - CLoSeR: Closing the Loop for Long-Context Streaming Reconstruction, *NeurIPS, 2026*. [[Paper](https://arxiv.org/pdf/2610.01927)] [[Code](https://github.com/MoyangLi00/CLoSeR.git)]
+- Pow3R-SLAM: Real-Time RGB-D SLAM with 3D Reconstruction Priors, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.38054)] [[Code](https://github.com/ChrisKolios/Pow3R-SLAM)] [[Website](https://chriskolios.github.io/Pow3R-SLAM/#map-explorer)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
