@@ -70,6 +70,7 @@
 - Hierarchical Structure-from-Motion Scales Feedforward Reconstruction, *arXiv 2026*. [[Paper](https://openreview.net/pdf?id=dZpJy2vZPH)]
 - RoMa-Ω: What Feed-Forward 3D Models Know About Image Matching, *ECCVw 2026*. [[Paper](https://arxiv.org/pdf/2609.09507)] [[Code](https://github.com/davnords/RoMa-Omega)]
 - What VGGT Knows About Overlap: Probing Geometric Foundation Models for Co-Visibility, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2607.09503)] [[Code](https://github.com/filippoziliotto/covisibility-probing/)]
+- A Calibration Audit of Confidence in Feed-Forward 3D Reconstruction Models, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2608.29705)]
 
 ## SLAM
 
