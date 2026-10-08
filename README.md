@@ -150,6 +150,7 @@
 - CLoSeR: Closing the Loop for Long-Context Streaming Reconstruction, *NeurIPS, 2026*. [[Paper](https://arxiv.org/pdf/2610.01927)] [[Code](https://github.com/MoyangLi00/CLoSeR.git)]
 - Pow3R-SLAM: Real-Time RGB-D SLAM with 3D Reconstruction Priors, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.38054)] [[Code](https://github.com/ChrisKolios/Pow3R-SLAM)] [[Website](https://chriskolios.github.io/Pow3R-SLAM/#map-explorer)]
 - Robust and Efficient Monocular 3D Gaussian SLAM for Kilometer-Scale Outdoor Scenes, *ECCV, 2026*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37467-7_10)] [[Code](https://github.com/3DAgentWorld/KiloGS-SLAM)] [[Website](https://3dagentworld.github.io/KiloGS-SLAM/)]
+- **F2SLAM**: Turning Feed-Forward Geometry into Persistent Factors for SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2610.05207)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
