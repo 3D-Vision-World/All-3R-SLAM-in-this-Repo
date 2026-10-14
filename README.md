@@ -73,6 +73,7 @@
 - A Calibration Audit of Confidence in Feed-Forward 3D Reconstruction Models, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2608.29705)]
 - Slot3R: Set-Associative Spatial Memory for Streaming 3D Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2610.12282)] [[Website](https://ashleyxyz.github.io/Slot-3R/)] [[Code](https://github.com/Westlake-AGI-Lab/Slot3R)]
 - BLASt3R: Bundle Adjustment of Any Image Set with Multi-view Matching and Monocular priors, *ECCV 2026*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37086-0_34)]
+- FoundationVIO: Enforcing Metric Scale in Feed-forward Visual-Inertial Odometry, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2610.14951)] [[Code](https://github.com/ori-drs/FoundationVIO)]
 
 ## SLAM
 
