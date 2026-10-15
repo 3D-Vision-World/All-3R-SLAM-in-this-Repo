@@ -73,7 +73,7 @@
 - A Calibration Audit of Confidence in Feed-Forward 3D Reconstruction Models, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2608.29705)]
 - Slot3R: Set-Associative Spatial Memory for Streaming 3D Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2610.12282)] [[Website](https://ashleyxyz.github.io/Slot-3R/)] [[Code](https://github.com/Westlake-AGI-Lab/Slot3R)]
 - BLASt3R: Bundle Adjustment of Any Image Set with Multi-view Matching and Monocular priors, *ECCV 2026*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37086-0_34)]
-- FoundationVIO: Enforcing Metric Scale in Feed-forward Visual-Inertial Odometry, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2610.14951)] [[Code](https://github.com/ori-drs/FoundationVIO)]
+- Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2610.19674)]
 
 ## SLAM
 
@@ -155,7 +155,9 @@
 - Robust and Efficient Monocular 3D Gaussian SLAM for Kilometer-Scale Outdoor Scenes, *ECCV, 2026*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37467-7_10)] [[Code](https://github.com/3DAgentWorld/KiloGS-SLAM)] [[Website](https://3dagentworld.github.io/KiloGS-SLAM/)]
 - F2SLAM: Turning Feed-Forward Geometry into Persistent Factors for SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2610.05207)]
 - All-St3R SLAM: Real-time RGB Dynamic SLAM with Pixel-wise Motion Masking, *IROS, 2026*. [[Paper](https://arxiv.org/pdf/2610.16143)] [[Website](https://yellowon0103.github.io/all-st3r-slam/)]
-- 
+- FoundationVIO: Enforcing Metric Scale in Feed-forward Visual-Inertial Odometry, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2610.14951)] [[Code](https://github.com/ori-drs/FoundationVIO)]
+
+
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
 
