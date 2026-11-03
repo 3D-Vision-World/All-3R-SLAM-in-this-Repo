@@ -150,13 +150,13 @@
 - PROFusion: Robust and Accurate Dense Reconstruction via Camera Pose Regression and Optimization, *ICRA, 2026*. [[Paper](https://arxiv.org/pdf/2509.24236)] [[Code](https://github.com/siyandong/PROFusion)]
 - World SLAM Model: Joint World Modeling for SLAM and Navigation, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.32626)] [[Code](https://github.com/Tsinghua-MARS-Lab/WorldSLAMModel)] [[Website](https://tsinghua-mars-lab.github.io/WorldSLAMModel/)]
 - StreamRig: Exploiting Intra-Rig Geometry for Streaming Multi-Camera Odometry, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.40244)] [[Code](https://github.com/WeiYuFei0217/StreamRig)] [[Website](https://weiyufei0217.github.io/StreamRig/)]
-- CLoSeR: Closing the Loop for Long-Context Streaming Reconstruction, *NeurIPS, 2026*. [[Paper](https://arxiv.org/pdf/2610.01927)] [[Code](https://github.com/MoyangLi00/CLoSeR.git)]
-- Pow3R-SLAM: Real-Time RGB-D SLAM with 3D Reconstruction Priors, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.38054)] [[Code](https://github.com/ChrisKolios/Pow3R-SLAM)] [[Website](https://chriskolios.github.io/Pow3R-SLAM/#map-explorer)]
+- CLoSeR: Closing the Loop for Long-Context Streaming Reconstruction, *NeurIPS 2026*. [[Paper](https://arxiv.org/pdf/2610.01927)] [[Code](https://github.com/MoyangLi00/CLoSeR.git)]
+- Pow3R-SLAM: Real-Time RGB-D SLAM with 3D Reconstruction Priors, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2609.38054)] [[Code](https://github.com/ChrisKolios/Pow3R-SLAM)] [[Website](https://chriskolios.github.io/Pow3R-SLAM/#map-explorer)]
 - Robust and Efficient Monocular 3D Gaussian SLAM for Kilometer-Scale Outdoor Scenes, *ECCV, 2026*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37467-7_10)] [[Code](https://github.com/3DAgentWorld/KiloGS-SLAM)] [[Website](https://3dagentworld.github.io/KiloGS-SLAM/)]
-- F2SLAM: Turning Feed-Forward Geometry into Persistent Factors for SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2610.05207)]
+- F2SLAM: Turning Feed-Forward Geometry into Persistent Factors for SLAM, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2610.05207)]
 - All-St3R SLAM: Real-time RGB Dynamic SLAM with Pixel-wise Motion Masking, *IROS, 2026*. [[Paper](https://arxiv.org/pdf/2610.16143)] [[Website](https://yellowon0103.github.io/all-st3r-slam/)]
 - FoundationVIO: Enforcing Metric Scale in Feed-forward Visual-Inertial Odometry, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2610.14951)] [[Code](https://github.com/ori-drs/FoundationVIO)]
-
+- UniGS-SLAM: Monocular Gaussian SLAM with Enhanced Geometry and Open-Vocabulary Semantics, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2611.02051)] [[Website](https://3dagentworld.github.io/UniGS-SLAM/)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
