@@ -157,6 +157,8 @@
 - All-St3R SLAM: Real-time RGB Dynamic SLAM with Pixel-wise Motion Masking, *IROS, 2026*. [[Paper](https://arxiv.org/pdf/2610.16143)] [[Website](https://yellowon0103.github.io/all-st3r-slam/)]
 - FoundationVIO: Enforcing Metric Scale in Feed-forward Visual-Inertial Odometry, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2610.14951)] [[Code](https://github.com/ori-drs/FoundationVIO)]
 - UniGS-SLAM: Monocular Gaussian SLAM with Enhanced Geometry and Open-Vocabulary Semantics, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2611.02051)] [[Website](https://3dagentworld.github.io/UniGS-SLAM/)]
+- Scale Anchoring via Implicit Semantics and Sequence-Consistent Loop Closure for VGGT-Based SLAM, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2611.06308)] [[Code](https://github.com/ziyijin81-afk/scale-anchor-slam)]
+
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
