@@ -158,6 +158,8 @@
 - FoundationVIO: Enforcing Metric Scale in Feed-forward Visual-Inertial Odometry, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2610.14951)] [[Code](https://github.com/ori-drs/FoundationVIO)]
 - UniGS-SLAM: Monocular Gaussian SLAM with Enhanced Geometry and Open-Vocabulary Semantics, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2611.02051)] [[Website](https://3dagentworld.github.io/UniGS-SLAM/)]
 - Scale Anchoring via Implicit Semantics and Sequence-Consistent Loop Closure for VGGT-Based SLAM, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2611.06308)] [[Code](https://github.com/ziyijin81-afk/scale-anchor-slam)]
+- V3DSAM: Semantic-Geometric Loop Verification and Geometry-Anchored Persistent Instance Mapping for Feed-Forward Dense SLAM, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2611.12452)]
+- DASH-SLAM: Calibration-Free Metric Monocular SLAM via Depth Scale Propagation, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2611.10239)]
 
 
 ## Calibration
