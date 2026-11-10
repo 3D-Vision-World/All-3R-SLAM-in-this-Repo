@@ -160,7 +160,7 @@
 - Scale Anchoring via Implicit Semantics and Sequence-Consistent Loop Closure for VGGT-Based SLAM, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2611.06308)] [[Code](https://github.com/ziyijin81-afk/scale-anchor-slam)]
 - V3DSAM: Semantic-Geometric Loop Verification and Geometry-Anchored Persistent Instance Mapping for Feed-Forward Dense SLAM, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2611.12452)]
 - DASH-SLAM: Calibration-Free Metric Monocular SLAM via Depth Scale Propagation, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2611.10239)]
-
+- Map2SLAM: From Streaming Map Prediction to Real-Time SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.11169)] [[Code](https://github.com/robbyant-research/Map2SLAM)] [[Website](https://robbyant-research.github.io/Map2SLAM/)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
