@@ -74,6 +74,8 @@
 - Slot3R: Set-Associative Spatial Memory for Streaming 3D Reconstruction, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2610.12282)] [[Website](https://ashleyxyz.github.io/Slot-3R/)] [[Code](https://github.com/Westlake-AGI-Lab/Slot3R)]
 - BLASt3R: Bundle Adjustment of Any Image Set with Multi-view Matching and Monocular priors, *ECCV 2026*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37086-0_34)]
 - Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2610.19674)]
+- Kosmo-GFM: A Production-Ready Geometry Foundation Model, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2611.16840)] [[Website](https://kosmoresearch.github.io/Kosmo-GFM/)] [[Code](https://github.com/KosmoResearch/Kosmo-GFM)]
+
 
 ## SLAM
 
