@@ -163,6 +163,7 @@
 - V3DSAM: Semantic-Geometric Loop Verification and Geometry-Anchored Persistent Instance Mapping for Feed-Forward Dense SLAM, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2611.12452)]
 - DASH-SLAM: Calibration-Free Metric Monocular SLAM via Depth Scale Propagation, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2611.10239)]
 - Map2SLAM: From Streaming Map Prediction to Real-Time SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.11169)] [[Code](https://github.com/robbyant-research/Map2SLAM)] [[Website](https://robbyant-research.github.io/Map2SLAM/)]
+- Flex-VO: Robust Visual Odometry for Flexible Auxiliary-Camera Setups, *RAL, 2026*. [[Paper](https://arxiv.org/pdf/2611.11169)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
