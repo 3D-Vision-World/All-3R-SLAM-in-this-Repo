@@ -75,6 +75,7 @@
 - BLASt3R: Bundle Adjustment of Any Image Set with Multi-view Matching and Monocular priors, *ECCV 2026*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37086-0_34)]
 - Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2610.19674)]
 - Kosmo-GFM: A Production-Ready Geometry Foundation Model, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2611.16840)] [[Website](https://kosmoresearch.github.io/Kosmo-GFM/)] [[Code](https://github.com/KosmoResearch/Kosmo-GFM)]
+- SGAR: Feed-Forward 3D Reconstruction via Sparse Geometry-Guided Attention, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2611.26493)]
 
 
 ## SLAM
@@ -165,6 +166,7 @@
 - Map2SLAM: From Streaming Map Prediction to Real-Time SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.11169)] [[Code](https://github.com/robbyant-research/Map2SLAM)] [[Website](https://robbyant-research.github.io/Map2SLAM/)]
 - Flex-VO: Robust Visual Odometry for Flexible Auxiliary-Camera Setups, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11802920)]
 - GravHMR: Coupling SLAM and Human Mesh Recovery in a Shared Gravity Frame, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.29614)] [[Code](https://github.com/jhl25-pixel/gravhmr)] [[Website](https://jhl25-pixel.github.io/gravhmr/)]
+- AnyVIO: Feed-Forward Streaming Visual-Inertial Odometry Across Platforms, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.26625)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
