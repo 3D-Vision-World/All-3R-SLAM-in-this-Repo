@@ -167,6 +167,7 @@
 - Flex-VO: Robust Visual Odometry for Flexible Auxiliary-Camera Setups, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11802920)]
 - GravHMR: Coupling SLAM and Human Mesh Recovery in a Shared Gravity Frame, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.29614)] [[Code](https://github.com/jhl25-pixel/gravhmr)] [[Website](https://jhl25-pixel.github.io/gravhmr/)]
 - AnyVIO: Feed-Forward Streaming Visual-Inertial Odometry Across Platforms, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.26625)]
+- Stereo Visual Odometry with In-the-Loop Geometric Feed-Forward Models Towards Dense Metric Mapping, *arXiv, 2026*. [[Paper](https://arxiv.org/abs/2611.25445)]
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
