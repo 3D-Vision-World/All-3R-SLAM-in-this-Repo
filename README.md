@@ -168,6 +168,10 @@
 - GravHMR: Coupling SLAM and Human Mesh Recovery in a Shared Gravity Frame, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.29614)] [[Code](https://github.com/jhl25-pixel/gravhmr)] [[Website](https://jhl25-pixel.github.io/gravhmr/)]
 - AnyVIO: Feed-Forward Streaming Visual-Inertial Odometry Across Platforms, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.26625)]
 - Stereo Visual Odometry with In-the-Loop Geometric Feed-Forward Models Towards Dense Metric Mapping, *arXiv, 2026*. [[Paper](https://arxiv.org/abs/2611.25445)]
+- Xtream: An Explicit Metric State for Large-Scale Streaming Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.31757)] [[Code](https://github.com/ErnestoLozano/Xtream)] [[Website](https://ernestolozano.github.io/xtream/)]
+- Confidently Lost: Silent Failure and Edge Deployment of Dense Visual SLAM under Photon Starvation, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.30173)]
+- ProManO: Beyond Sim(3) for Metric Upgrade of Feed-Forward Geometry with Visual-Inertial Anchors, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.34480)] [[Website](https://h0xg.github.io/ProManO/)]
+
 
 ## Calibration
 - Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.08813)]
