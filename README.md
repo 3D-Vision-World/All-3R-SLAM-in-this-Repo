@@ -4,6 +4,7 @@
 
 - Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2507.14501)] [[Website](https://fnzhan.com/projects/Feed-Forward-3D/)]
 - Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2604.14025)] [[Website](https://github.com/ziplab/Awesome-Feed-Forward-3D)]
+- Long-Video 3D Reconstruction with Geometric Foundation Models: Streaming Inference, Memory Mechanisms, and Global Consistency, *arXiv 2026*. [[Paper](https://www.mdpi.com/1424-8220/26/23/7450)] 
 
 ## 3D Geometric Foundation Models (3R)
 
